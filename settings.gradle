@@ -1,0 +1,5 @@
+include ':app'
+include ':mopub-sdk'
+include ':mopub-sdk:mopub-sdk-base'
+include ':mopub-sdk:mopub-sdk-native-static'
+include ':mopub-sdk:mopub-sdk-native-video'
